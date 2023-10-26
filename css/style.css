@@ -110,3 +110,9 @@ body p {
 .panel-2 a:visited {
     text-decoration: none;
 }
+
+body {
+    background-image: url(../img/matthew-mcbrayer-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
